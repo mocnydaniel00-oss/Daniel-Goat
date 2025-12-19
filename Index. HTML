@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Daniel_Mocny Games</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>🎮 Daniel_Mocny Games</h1>
+  <p>Play free online games</p>
+</header>
+
+<main class="grid">
+  <a href="games.html#shellshockers" class="card">🥚 Shell Shockers</a>
+  <a href="games.html#krunker" class="card">🔫 Krunker</a>
+  <a href="games.html#1v1" class="card">⚔️ 1v1.LOL</a>
+</main>
+
+<footer>
+  <p>© 2025 Daniel_Mocny</p>
+</footer>
+
+</body>
+</html>
