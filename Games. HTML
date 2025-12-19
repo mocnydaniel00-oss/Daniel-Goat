@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Daniel_Mocny Games</title>
+  <style>
+    body {
+      background: #0b1220;
+      color: white;
+      font-family: Arial;
+      text-align: center;
+      padding: 40px;
+    }
+    a {
+      display: block;
+      margin: 20px auto;
+      padding: 15px;
+      width: 250px;
+      background: #1e293b;
+      color: white;
+      text-decoration: none;
+      border-radius: 10px;
+    }
+    a:hover {
+      background: #38bdf8;
+      color: black;
+    }
+  </style>
+</head>
+<body>
+
+<h1>🎮 Select Game</h1>
+
+<a id="shellshockers" href="https://shellshock.io" target="_blank">
+  Play Shell Shockers
+</a>
+
+<a id="krunker" href="https://krunker.io" target="_blank">
+  Play Krunker
+</a>
+
+<a id="1v1" href="https://1v1.lol" target="_blank">
+  Play 1v1.LOL
+</a>
+
+</body>
+</html>
